@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>adsi</title>
+</head>
+<body>
 <!--Tabla de 2 fila con 3 columnas con borde de 1px  -->
 <table border="1" > <!--Crea la tabla con el border de 1px  -->
   <tr> <!--Crea la primera fila -->
@@ -10,4 +18,6 @@
      <td >Celda 5</td>
      <td >Celda 6</td>
   </tr>
-</table>
+</table>              
+</body>
+</html>
