@@ -1,0 +1,13 @@
+<!--Tabla de 2 fila con 3 columnas con borde de 1px  -->
+<table border="1" > <!--Crea la tabla con el border de 1px  -->
+  <tr> <!--Crea la primera fila -->
+     <td >Celda 1</td> <!--Crea una columna y en ella una celda -->
+     <td >Celda 2</td>
+     <td >Celda 3</td>
+  </tr>
+  <tr> <!--Crea la segunda fila -->
+     <td >Celda 4</td> <!--Crea una columna y en ella una celda -->
+     <td >Celda 5</td>
+     <td >Celda 6</td>
+  </tr>
+</table>
