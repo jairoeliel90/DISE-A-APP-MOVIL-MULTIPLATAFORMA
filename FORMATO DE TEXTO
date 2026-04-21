@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>adsi</title>
+</head>
+<body>
+ <p>Texto con negrilla simple, <b>Lorem ipsum dolor sit amet...</b></p>
+ <p>Texto con cursiva enfatizado, <em>Lorem ipsum dolor sit amet...</em></p>
+ <p>Texto con cursiva simple, <i>Lorem ipsum dolor sit amet...</i></p>
+ <p>Texto con subrayado, <u>Lorem ipsum dolor sit amet...</u></p>
+ <p>Texto con negrilla importante, <strong>Lorem ipsum dolor sit amet...</strong></p>
+ <p>Texto con grande, <big>Lorem ipsum dolor sit amet...</big></p>
+ <p>Texto con pequeño, <small>Lorem ipsum dolor sit amet...</small></p>
+ <p>Texto con subrayado, <mark>Lorem ipsum dolor sit amet...</mark></p>
+ <p>Texto con Titulo ó Autor, <cite>Lorem ipsum dolor sit amet...</cite></p>
+ <p>Texto con cotenido citado, <blockquote>Lorem ipsum dolor sit amet...</blockquote></p>
+ <p>Texto con salto de linea br, <br>Lorem ipsum dolor sit amet...</p>
+ <p>Linea de Quiebre con hr, <hr>  </p>                  
+</body>
+</html>
