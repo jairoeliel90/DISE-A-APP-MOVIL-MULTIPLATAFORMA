@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de Imagen</title>
+</head>
+<body>
+
+
+    <h2>Imagen Simple</h2>
+    <figure>
+    <img src="imagen.jpg" alt="Un paisaje hermoso" width="500" height="300">
+<figcaption>
+   ESTE HERMOSO PAISAJE ESTA EN ALGUN LUGAR DEL  PLANETA.
+  </figcaption>
+  </figure>
+    <h2>Imagen con Enlace</h2>
+    <a href="https://imanesdeviaje.com/paisajes-mas-bonitos-del-mundo/">
+        <img src="icono.png" alt="Ir a Google">
+    </a>
+
+
+</body>
+</html>
