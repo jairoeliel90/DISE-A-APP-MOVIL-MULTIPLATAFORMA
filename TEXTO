@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de Etiquetas de Texto</title>
+</head>
+<body>
 
+    <h1>Título Principal (H1)</h1>
+    <h2>Subtítulo Importante (H2)</h2>
+
+    <p>Este es un párrafo de texto normal. Puedes usar <strong>negrita (strong)</strong> para resaltar importancia o <em>cursiva (em)</em> para enfatizar [1, 12].</p>
+
+    <p>También podemos subrayar texto usando <u>la etiqueta u</u> o resaltar contenido con <mark>la etiqueta mark</mark> [12].</p>
+
+    <p>Ejemplo de citas y referencias: <q>Esto es una cita textual corta</q> y <cite>título de una obra</cite> [1].</p>
+
+    <p>Otros formatos: Texto pequeño <small>(small)</small>, subíndice (H<sub>2</sub>O) y superíndice (m<sup>2</sup>) [1, 12].</p>
+
+    <p>Para mostrar código o texto preformateado: <code>function saludar() { alert('Hola'); }</code> [1].</p>
+
+</body>
+</html>
